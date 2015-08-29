@@ -28,7 +28,7 @@ import java.util.Properties;
 
 public class OTAConfig extends Properties {
 
-    private final static String FILENAME = "ota_conf";
+    private final static String FILENAME = "ota_conf.xml";
 
     private final static String OTA_URL = "ota_url";
     private final static String RELEASE_TYPE = "release_type";
