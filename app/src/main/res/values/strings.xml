@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">TeslaOTA</string>
-    <string name="app_title">TeslaOTA</string>
+    <string name="app_name">CandyOTA</string>
+    <string name="app_title">CandyOTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>

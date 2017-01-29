@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.fusionjack.slimota.xml;
+package com.fusionjack.candyota.xml;
 
 public class OTALink {
 
